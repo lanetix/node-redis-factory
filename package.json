@@ -1,0 +1,19 @@
+{
+  "name": "redis-factory",
+  "version": "1.0.0",
+  "description": "A factory for creating a redis client from a connection string.",
+  "author": "Lanetix <engineering@lanetix.com> (https://github.com/lanetix/)",
+  "homepage": "https://github.com/lanetix/node-redis-factory",
+  "bugs": "https://github.com/lanetix/node-redis-factory",
+  "repository": "git://github.com/lanetix/node-redis-factory.git",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "main": "./index.js",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
